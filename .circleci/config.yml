@@ -16,8 +16,8 @@ jobs:
 
     working_directory: ~/KateCatlin/women-rising
 
-    # steps:
-    #   - checkout
+    steps:
+      - checkout
 
     #   # Download and cache dependencies
     #   - restore_cache:
